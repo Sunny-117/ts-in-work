@@ -1,0 +1,22 @@
+{
+  "name": "ts-in-work",
+  "version": "1.0.0",
+  "description": "TS in the regular work",
+  "main": "index.js",
+  "scripts": {
+    "esno": "./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunny-117/ts-in-work.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny-117/ts-in-work/issues"
+  },
+  "homepage": "https://github.com/Sunny-117/ts-in-work#readme",
+  "dependencies": {
+    "esno": "^4.0.0"
+  }
+}
